@@ -112,7 +112,7 @@ div.gerar-senha-cpf {
 div.gerar-senha-cpf div.btns-gerar {
   max-width: 100%;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   justify-content: space-between;
   gap: 10px;
   margin-bottom: 20px;
